@@ -1,6 +1,6 @@
 # Confidence score Weighting Adaptation using the JMDS (CoWA-JMDS)
 
-This repository is the official implementation of ["Confidence Score for Source-Free Unsupervised Domain Adaptation"](https://arxiv.org/abs/2206.06640), acceoted in ICML 2022.
+This repository is the official implementation of ["Confidence Score for Source-Free Unsupervised Domain Adaptation"](https://arxiv.org/abs/2206.06640), accepted in ICML 2022.
 This code refers to [SHOT](https://github.com/tim-learn/SHOT) implementation.
 
 ### Environments
